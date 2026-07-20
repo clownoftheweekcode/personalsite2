@@ -6,17 +6,22 @@
     margin-left:25px;
 }
 #walkCycleEl {
-    float:right;
-    width:380px;
+    
+    width:370px;
+    /* border-top-right-radius: 10px; */
+    border-radius:12px;
 }
 #profile {
     width:150px;
-    background-color: blue;
+    background-color: transparent;
     height:126.66px;
 }
 .content {
-    max-width:700px;
-    height:200px;
+    border-radius:2%;
+    max-width:530px;
+    height:500px;
+    color:#00509d;
+    background-color:#edf2fb;
 }
 .status {
     margin:auto;
@@ -30,4 +35,41 @@
 
 #statusDot, #status {
     display:inline;
+}
+.nav button {
+    width:125px;
+    padding:0px;
+    margin:0px;
+    background-color: #c1d3fe;
+    border:none;
+    padding:5px;
+    color:#00509d;
+}
+.nav button:hover {
+    background-color: #a0afd1;
+    /* color:#5e7ab9; */
+}
+.project img {
+    width:100px;
+}
+.nav {
+    margin:0px 7px;
+}
+.project {
+    display:inline-block;
+}
+.project p {
+    text-align:center;
+}
+.mainCont {
+    padding:7px;
+}
+.artwork img {
+    width:200px;
+}
+.artwork {
+    display:inline-block;
+}
+.header {
+    background-color: #abc4ff;
 }
