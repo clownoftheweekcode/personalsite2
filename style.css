@@ -1,0 +1,33 @@
+.pfp {
+    width:100px;
+    height:100px;
+    border-radius: 100%;
+    display:block;
+    margin-left:25px;
+}
+#walkCycleEl {
+    float:right;
+    width:380px;
+}
+#profile {
+    width:150px;
+    background-color: blue;
+    height:126.66px;
+}
+.content {
+    max-width:700px;
+    height:200px;
+}
+.status {
+    margin:auto;
+    text-align:center;
+    display:block;
+    padding:5px;
+}
+#profile {
+    float:left;
+}
+
+#statusDot, #status {
+    display:inline;
+}
