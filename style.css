@@ -22,6 +22,7 @@
     height:500px;
     color:#00509d;
     background-color:#edf2fb;
+    border-image: url('./images/whitelace.png') 34 round;
 }
 .status {
     margin:auto;
