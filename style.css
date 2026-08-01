@@ -84,3 +84,27 @@ body {
 .header {
     background-color: #abc4ff;
 }
+.artPreview {
+    width:400px;
+    height:400px;
+    display:none;
+    position:absolute;
+    top: 50%; left: 50%; 
+    transform: translate(-50%, -50%);
+    background-color:#8d98a8ba;
+    padding:10px;
+    border-radius:5px;
+}
+.directionP {
+    text-align: center;
+    left:20%;
+    right:20%;
+    color:white;
+}
+.prevImg {
+    max-width:400px;
+    top: 50%; left: 50%; 
+    position:absolute;
+    transform: translate(-50%, -50%);
+
+}
