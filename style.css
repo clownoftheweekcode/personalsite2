@@ -25,6 +25,7 @@ body {
 }
 
 .content {
+    margin:auto;
     border-radius:2%;
     max-width:530px;
     height:500px;
