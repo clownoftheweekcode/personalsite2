@@ -108,3 +108,13 @@ body {
     transform: translate(-50%, -50%);
 
 }
+.artPreview button {
+    height:25px;
+    width:25px;
+    border:none;
+    background-color: #c1d3fe;
+    color: #00509d;
+}
+.closePreview {
+    
+}
